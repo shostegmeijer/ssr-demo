@@ -1,0 +1,41 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-2634e8dabf129543.js",
+      "static/chunks/c7bb1776-ab5074b794b7a05c.js",
+      "static/chunks/733-3c6e9a3d6ddeb93b.js",
+      "static/chunks/main-app-4ace99d903ed8ce2.js",
+      "static/chunks/app/_not-found/page-88bf9e1c38164256.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-2634e8dabf129543.js",
+      "static/chunks/c7bb1776-ab5074b794b7a05c.js",
+      "static/chunks/733-3c6e9a3d6ddeb93b.js",
+      "static/chunks/main-app-4ace99d903ed8ce2.js",
+      "static/css/d032d0bce83f8c53.css",
+      "static/chunks/app/layout-50fc21ee3daaf778.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-2634e8dabf129543.js",
+      "static/chunks/c7bb1776-ab5074b794b7a05c.js",
+      "static/chunks/733-3c6e9a3d6ddeb93b.js",
+      "static/chunks/main-app-4ace99d903ed8ce2.js",
+      "static/chunks/app/page-39bed2c588c26551.js"
+    ],
+    "/pokemon/[id]/page": [
+      "static/chunks/webpack-2634e8dabf129543.js",
+      "static/chunks/c7bb1776-ab5074b794b7a05c.js",
+      "static/chunks/733-3c6e9a3d6ddeb93b.js",
+      "static/chunks/main-app-4ace99d903ed8ce2.js",
+      "static/chunks/404-a49daa03b1a71152.js",
+      "static/chunks/app/pokemon/[id]/page-a9356e3cbeec807d.js"
+    ],
+    "/random/page": [
+      "static/chunks/webpack-2634e8dabf129543.js",
+      "static/chunks/c7bb1776-ab5074b794b7a05c.js",
+      "static/chunks/733-3c6e9a3d6ddeb93b.js",
+      "static/chunks/main-app-4ace99d903ed8ce2.js",
+      "static/chunks/app/random/page-92fd062972350cd9.js"
+    ]
+  }
+}

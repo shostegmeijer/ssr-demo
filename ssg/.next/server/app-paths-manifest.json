@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/pokemon/bulbasaur/page": "app/pokemon/bulbasaur/page.js",
+  "/pokemon/charmander/page": "app/pokemon/charmander/page.js",
+  "/pokemon/pikachu/page": "app/pokemon/pikachu/page.js",
+  "/pokemon/squirtle/page": "app/pokemon/squirtle/page.js"
+}
